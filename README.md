@@ -4,8 +4,8 @@
 <h2>Esse é um projeto que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 <br>
 <br>
-<h3>Nesee projeto utilizamos as tecnoligias HTML, CSS, JAVASCRIPT, tambem aplicamos responsabilidade
+<h3>Nesee projeto utilizamos as tecnologias HTML, CSS, JAVASCRIPT, tambem aplicamos responsabilidade
 onde o mesmo se torna responsivo de ótima visualização tanto para computadores quanto para celulares. </h3>
 <br>
 <br>
-img
+<img src="https://github.com/biano767/projeto-responsivo-devclube/blob/main/assets/Image%20Easy%20Shopping.png?raw=true" alt="imagem-projeto" />
